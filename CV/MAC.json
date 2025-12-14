@@ -172,7 +172,7 @@
       {
         "details": {
           "name": "My Portfolio",
-          "description": "Welcome to my personal website, hosted on Firebase. Feel free to explore and take a peek!\n\nwww.franamoroso.com",
+          "description": "You can check out my **portfolio** at [www.franamoroso.com/home](https://www.franamoroso.com/home) to see my work and the projects I'm passionate about.\n\nFor a deeper look into my code and projects, feel free to explore my [GitHub repository](https://github.com/Frankovg?tab=repositories). The **README** in my repository provides context on the web app I've been developing, outlining the features and technologies involved.",
           "URL": "https://www.franamoroso.com",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/1bd4e528-4072-4031-a54d-aeebc8b09389_logo.svg",
@@ -186,10 +186,6 @@
             "startDate": "2022-10-01",
             "competences": [
               {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
                 "name": "Figma",
                 "type": "technology"
               },
@@ -198,11 +194,31 @@
                 "type": "technology"
               },
               {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Prisma",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               },
               {
-                "name": "Sass",
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Zustand",
                 "type": "technology"
               }
             ]

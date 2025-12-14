@@ -678,6 +678,10 @@
           "type": "technology"
         },
         {
+          "name": "Sentry",
+          "type": "technology"
+        },
+        {
           "name": "Storybook",
           "type": "technology"
         },

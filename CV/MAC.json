@@ -258,6 +258,82 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Safeguru",
+          "description": "**Milestone: Launching [Safeguru](https://safeguru.com/) eCommerce Platform**\n\nA key milestone in my career was contributing to the launch of the **[Safeguru](https://safeguru.com/)** eCommerce platform. I played a significant role in the frontend development, focusing on creating a seamless, intuitive user experience. Using **Atomic Design** principles, I built reusable UI components, optimized performance, and ensured scalability.\n\nSeeing the platform go live after months of collaboration, development, and testing was incredibly rewarding. It was a proud moment to know my work helped deliver a reliable and user-friendly shopping experience.",
+          "URL": "https://safeguru.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/14/7940f76d-229c-4329-9b9d-3b4bb6d76774_logo.svg",
+            "alt": "logo.10ffb7b7.svg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2022-08-01",
+        "tags": [
+          "E-commerce"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Odoo",
+            "type": "technology"
+          },
+          {
+            "name": "Playwright",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Prisma",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sentry",
+            "type": "technology"
+          },
+          {
+            "name": "Storybook",
+            "type": "technology"
+          },
+          {
+            "name": "Styled Components",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

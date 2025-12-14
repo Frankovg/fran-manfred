@@ -638,10 +638,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Bootstrap",
-          "type": "technology"
-        },
-        {
           "name": "CSS",
           "type": "technology"
         },

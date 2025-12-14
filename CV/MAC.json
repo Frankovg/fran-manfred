@@ -654,6 +654,10 @@
           "type": "technology"
         },
         {
+          "name": "Playwright",
+          "type": "technology"
+        },
+        {
           "name": "PostgreSQL",
           "type": "technology"
         },

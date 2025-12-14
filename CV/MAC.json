@@ -703,6 +703,7 @@
     "status": "searchingActively",
     "requirements": {
       "contractTypes": [
+        "permanent",
         "freelance"
       ]
     }
@@ -730,6 +731,7 @@
         "type": "technology"
       }
     ],
+    "desiredJobDescription": "I’m particularly drawn to companies that invest in learning and growth, offering courses or mentorship that help me expand my skills. I believe in continuous improvement, both professionally and personally, and appreciate teams that share knowledge and support each other’s development.\n\nAlso, I thrive in a positive, collaborative work environment where mutual respect and open communication are at the core. For me, a great workplace is all about the people I work with: calm, respectful, and thoughtful colleagues who value each other’s contributions.",
     "projects": [
       {
         "name": "My Portfolio"

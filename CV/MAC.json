@@ -171,55 +171,6 @@
       },
       {
         "details": {
-          "name": "The Jokes API",
-          "description": "I've created a React.js application featuring a diverse collection of random jokes.\nThe app allows you to rank your favorites and contribute your own jokes.\nAdditional features include a search bar and \u001flters for a personalized experience.\nAll jokes are stored in a SQL database, and the Back-End is built with Node.js.",
-          "URL": "https://www.youtube.com/watch?v=ROJoLYIi0ZA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/a430217b-b5df-4527-b685-57fa917e66f9_jokes.png",
-            "alt": "jokes.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-12-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2022-12-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "My Portfolio",
           "description": "Welcome to my personal website, hosted on Firebase. Feel free to explore and take a peek!\n\nwww.franamoroso.com",
           "URL": "https://www.franamoroso.com",
@@ -836,9 +787,6 @@
       },
       {
         "name": "Safeguru"
-      },
-      {
-        "name": "The Jokes API"
       }
     ]
   }

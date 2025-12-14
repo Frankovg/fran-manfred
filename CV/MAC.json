@@ -1,0 +1,741 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Franco",
+      "surnames": "Amoroso",
+      "title": "Front-end Developer | React + Nextjs + Javascript + Typescript + Node + SQL || Industrial Designer",
+      "description": "💻 I am a Full Stack Web Developer with a strong Front-End orientation. With a background in Industrial Design, my expertise lies in Product Design. To complement my skill set, I earned a UX Design certification that seamlessly integrates into my software development proficiency.\n\n🛠 The top technologies I am working with are Typescript, React, Next.js, and Tailwind. My familiarity extends to Back-End essentials with Node.js and SQL.\n\n👨‍💻 Currently, I am actively engaged as a Front-End developer at A-SAFE Digital, a software enterprise affiliated with A-SAFE (UK). I also contribute to the creation of interface designs for our products.\n\n🕹 My passion revolves around technology and all facets of computing. Beyond the digital realm, I also like mountain biking, outdoor adventures, and video games.\n\n📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.\n\n👨‍💻 My Github > https://github.com/Frankovg\n🛸 My web page > https://www.franamoroso.com/\n\n🙋‍♂️\n\n👨‍💻 My Github > https://github.com/Frankovg\n🛸 My web page > https://www.franamoroso.com/\n\n🙋‍♂️",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/41f96670-ef45-4669-a7ae-b51c452a1bc4_120pp.jpg",
+        "alt": "120pp.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "About me",
+        "fact": "I am a Front-end Developer and an Industrial Designer. Also with experience as a Graphic and UX/UI Designer.\n\nI am passionate about the interaction with users and I stand out for being fast, always looking for clean solutions to complex problems."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/francoamoroso/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Frankovg"
+      },
+      {
+        "type": "other",
+        "URL": "https://franamoroso.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Fathom3 Dev (changiing name to A-SAFE Digital)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/f6f5a610-9026-4eb0-aa39-5e11954fc45d_asafedigital.svg",
+            "alt": "asafedigital.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Junior Front-end Developer",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "In my role as a Junior Front-End Developer, I've had the opportunity to be part of a highly collaborative team, where we've tackled various projects in the realm of e-commerce, management systems, and B2B platforms. My responsibility revolves around transforming designs and concepts into functional and appealing interfaces. Through the implementation of advanced web technologies, such as Next.js, React, and TypeScript, I've contributed to the creation of interactive, high-performance solutions that cater to our clients' needs. My dedication to continuous improvement and the pursuit of novel ways to enhance user experience on these platforms is a crucial aspect of my professional approach in this position."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Safeguru",
+          "description": "As a Front-End Developer at A-SAFE Digital, I am deeply involved in one of our flagship projects – an e-commerce platform known as Safeguru. \nSafeguru operates under the umbrella of the overarching entity, A-SAFE.\nThis dynamic e-commerce venture is currently active in the United Kingdom and Spain, with ambitious plans to expand its reach to additional countries such as Germany and France.\nMoreover, the scope of the project extends beyond the consumer-facing platform. It encompasses an administrative commerce interface and a dedicated B2B segment, catering to business clientele.",
+          "URL": "https://safeguru.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/902ed182-1db6-4203-82c8-b001fbac3f80_safeguru.png",
+            "alt": "safeguru.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "The Jokes API",
+          "description": "I've created a React.js application featuring a diverse collection of random jokes.\nThe app allows you to rank your favorites and contribute your own jokes.\nAdditional features include a search bar and \u001flters for a personalized experience.\nAll jokes are stored in a SQL database, and the Back-End is built with Node.js.",
+          "URL": "https://www.youtube.com/watch?v=ROJoLYIi0ZA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/a430217b-b5df-4527-b685-57fa917e66f9_jokes.png",
+            "alt": "jokes.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-12-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "My Portfolio",
+          "description": "Welcome to my personal website, hosted on Firebase. Feel free to explore and take a peek!\n\nwww.franamoroso.com",
+          "URL": "https://www.franamoroso.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/1bd4e528-4072-4031-a54d-aeebc8b09389_logo.svg",
+            "alt": "logo.svg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Xd",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "CS50: Introduction to Computer Science",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "HarvardX",
+          "description": "An introduction to the intellectual enterprises of computer science and the art of programming.",
+          "URL": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/e21b15d5-9198-4704-aed4-b8293304abc1_the-harvard-emblem.jpg",
+            "alt": "The-Harvard-Emblem.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "English Certificate",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "EF SET",
+          "description": "English C1 Advanced certificate.",
+          "URL": "https://www.efset.org/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/9b00558f-52c2-424e-b773-b3aad48f4dc5_std8evxe_400x400.jpg",
+            "alt": "std8EVXe_400x400.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Front-end technologies",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "I'm still studying technologies at Platzi.",
+          "URL": "https://platzi.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/0d380361-e3c0-4181-aef7-af9eae99a45b_platzi.jpg",
+            "alt": "Platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Full-Stack Web Developer",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Socratech",
+          "description": "16 weeks intensive bootcamp.",
+          "URL": "https://socratech.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/52c94acf-e4fe-4dc2-aa3c-82ce06592da2_socrafondo.png",
+            "alt": "socrafondo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Google UX Design Professional Certificate",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Google Career Certificates",
+          "description": "6 months course about UX/UI Design.",
+          "URL": "https://grow.google/intl/es-419_us/certificates/ux-design/#?modal_active=none",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/806212b9-60fe-4ee4-83c7-3884ce030e16_google-grow-logo.png",
+            "alt": "google-grow-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Xd",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Industrial Design",
+        "startDate": "2014-11-01",
+        "institution": {
+          "name": "Universidad Nacional de Mar del Plata",
+          "description": "Oriented to Product Design.",
+          "URL": "https://www.mdp.edu.ar/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/56be5b58-7360-4571-9060-825b05028def_images.png",
+            "alt": "images.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Autodesk 3D Studio Max",
+            "type": "technology"
+          },
+          {
+            "name": "Blender",
+            "type": "technology"
+          },
+          {
+            "name": "Corel Draw",
+            "type": "technology"
+          },
+          {
+            "name": "Rhinoceros",
+            "type": "technology"
+          },
+          {
+            "name": "Solidworks",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/francoamoroso/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Frankovg",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "di.francoamoroso@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Sass",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Sass",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "projects": [
+      {
+        "name": "My Portfolio"
+      },
+      {
+        "name": "Safeguru"
+      },
+      {
+        "name": "The Jokes API"
+      }
+    ]
+  }
+}

@@ -480,43 +480,6 @@
         }
       },
       {
-        "studyType": "selfTraining",
-        "degreeAchieved": false,
-        "name": "Front-end technologies",
-        "startDate": "2023-01-01",
-        "institution": {
-          "name": "Platzi",
-          "description": "I'm still studying technologies at Platzi.",
-          "URL": "https://platzi.com/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/0d380361-e3c0-4181-aef7-af9eae99a45b_platzi.jpg",
-            "alt": "Platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NextJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Full-Stack Web Developer",

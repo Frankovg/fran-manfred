@@ -379,6 +379,12 @@
       },
       {
         "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
@@ -775,15 +781,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
         "name": "NextJS",
         "type": "technology"
       },
       {
         "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "Sass",
         "type": "technology"
       },
       {

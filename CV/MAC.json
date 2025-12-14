@@ -753,6 +753,7 @@
       }
     ],
     "desiredJobDescription": "I’m particularly drawn to companies that invest in learning and growth, offering courses or mentorship that help me expand my skills. I believe in continuous improvement, both professionally and personally, and appreciate teams that share knowledge and support each other’s development.\n\nAlso, I thrive in a positive, collaborative work environment where mutual respect and open communication are at the core. For me, a great workplace is all about the people I work with: calm, respectful, and thoughtful colleagues who value each other’s contributions.",
+    "goodPractices": "I follow best practices that ensure clean, scalable, and maintainable code. I prioritize clean code, making sure it’s readable, simple, and well-documented, which reduces technical debt. I apply Atomic Design principles to create reusable and modular UI components, which enhances consistency and scalability.\n\nI always consider scalability and reusability, writing code that can easily adapt to future changes. Unit testing is a must for me, as it helps catch issues early and ensures reliability. I also embrace end-to-end (E2E) testing to validate the entire application flow and ensure everything integrates smoothly.\n\nThese practices help me deliver high-quality code that’s both functional and maintainable.",
     "projects": [
       {
         "name": "My Portfolio"

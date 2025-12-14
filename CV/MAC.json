@@ -47,36 +47,29 @@
     "jobs": [
       {
         "organization": {
-          "name": "Fathom3 Dev (changiing name to A-SAFE Digital)",
+          "name": "A-SAFE Digital",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/f6f5a610-9026-4eb0-aa39-5e11954fc45d_asafedigital.svg",
-            "alt": "asafedigital.svg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/14/474aa428-95f4-4044-86ae-502f6ef0522f_svgviewer-output.svg",
+            "alt": "svgviewer-output.svg"
+          },
+          "URL": "https://asafedigital.com/"
         },
         "roles": [
           {
-            "name": "Junior Front-end Developer",
+            "name": "Front-end Developer",
             "startDate": "2023-01-01",
             "challenges": [
               {
-                "description": "In my role as a Junior Front-End Developer, I've had the opportunity to be part of a highly collaborative team, where we've tackled various projects in the realm of e-commerce, management systems, and B2B platforms. My responsibility revolves around transforming designs and concepts into functional and appealing interfaces. Through the implementation of advanced web technologies, such as Next.js, React, and TypeScript, I've contributed to the creation of interactive, high-performance solutions that cater to our clients' needs. My dedication to continuous improvement and the pursuit of novel ways to enhance user experience on these platforms is a crucial aspect of my professional approach in this position."
+                "description": "In my role as a Front-End Developer, I have the opportunity to be part of a highly collaborative team, where we tackle various projects in the realm of e-commerce, management systems, and B2B platforms. My responsibility revolves around transforming designs and concepts into functional and appealing interfaces. Through the implementation of advanced web technologies, such as Next.js, React, and TypeScript, I contribute to the creation of interactive, high-performance solutions that cater to our clients' needs. "
               }
             ],
             "competences": [
-              {
-                "name": "Adobe Illustrator",
-                "type": "technology"
-              },
-              {
-                "name": "Adobe Photoshop",
-                "type": "technology"
-              },
               {
                 "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "Docker",
+                "name": "Claude Code",
                 "type": "technology"
               },
               {
@@ -88,11 +81,11 @@
                 "type": "technology"
               },
               {
-                "name": "JSON",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
+                "name": "Jest",
                 "type": "technology"
               },
               {
@@ -100,11 +93,27 @@
                 "type": "technology"
               },
               {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "Prisma",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               },
               {
-                "name": "SQL",
+                "name": "Sentry",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
                 "type": "technology"
               },
               {
@@ -117,10 +126,6 @@
               },
               {
                 "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
                 "type": "technology"
               }
             ]

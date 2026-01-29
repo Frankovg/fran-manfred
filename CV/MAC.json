@@ -684,6 +684,10 @@
           "type": "technology"
         },
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
           "name": "Playwright",
           "type": "technology"
         },

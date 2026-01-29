@@ -710,6 +710,10 @@
         {
           "name": "TypeScript",
           "type": "technology"
+        },
+        {
+          "name": "Vitest",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [

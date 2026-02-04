@@ -430,9 +430,9 @@
     "studies": [
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "CS50: Introduction to Computer Science",
-        "startDate": "2022-05-01",
+        "startDate": "2022-02-01",
         "institution": {
           "name": "HarvardX",
           "description": "An introduction to the intellectual enterprises of computer science and the art of programming.",
@@ -442,6 +442,7 @@
             "alt": "The-Harvard-Emblem.jpg"
           }
         },
+        "finishDate": "2022-05-01",
         "linkedCompetences": [
           {
             "name": "C",

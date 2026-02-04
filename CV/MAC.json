@@ -482,9 +482,9 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Full-Stack Web Developer",
-        "startDate": "2022-10-01",
+        "startDate": "2022-06-01",
         "institution": {
           "name": "Socratech",
           "description": "16 weeks intensive bootcamp.",
@@ -494,6 +494,7 @@
             "alt": "socrafondo.png"
           }
         },
+        "finishDate": "2022-10-01",
         "linkedCompetences": [
           {
             "name": "Bootstrap",

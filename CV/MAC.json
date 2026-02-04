@@ -6,7 +6,7 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Franco",
+      "name": "Franco Gabriel",
       "surnames": "Amoroso",
       "title": "Front-end Developer at A-SAFE Digital | React + Nextjs + Typescript || UX-UI Designer || Industrial Designer",
       "description": "👋 Hi there! I'm Franco.\n\n💻 Front-end Developer with a multidisciplinary background in Industrial Design and UX/UI, specializing in building scalable, user-centered web applications. I combine technical expertise with design thinking to deliver solutions that balance functionality, performance, and aesthetic excellence.\n\n🛠 Working primarily with TypeScript, React, Next.js, and Tailwind CSS, with backend experience in Node.js.\n\n👨‍💻 Currently serving as Front-End Developer at A-SAFE Digital, where I contribute to enterprise-level applications using modern web technologies and best practices.\n\n🕹 Passionate about technology, computing, mountain biking, outdoor adventures, and video games.\n\n📧 Shall we talk? feel free to reach out to me at di.francoamoroso@gmail.com.\n\n👨‍💻 My hobby Github > https://github.com/Frankovg\n🤓 My professional Github > https://github.com/FranF3\n🛸 My web page > https://www.franamoroso.com/\n\n🙋‍♂️",
@@ -567,9 +567,9 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Industrial Design",
-        "startDate": "2014-11-01",
+        "startDate": "2008-03-01",
         "institution": {
           "name": "Universidad Nacional de Mar del Plata",
           "description": "Oriented to Product Design.",
@@ -579,6 +579,7 @@
             "alt": "images.png"
           }
         },
+        "finishDate": "2014-11-01",
         "linkedCompetences": [
           {
             "name": "Adobe Illustrator",

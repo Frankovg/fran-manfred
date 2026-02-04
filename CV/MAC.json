@@ -540,9 +540,9 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Google UX Design Professional Certificate",
-        "startDate": "2022-10-01",
+        "startDate": "2022-08-01",
         "institution": {
           "name": "Google Career Certificates",
           "description": "6 months course about UX/UI Design.",
@@ -552,6 +552,7 @@
             "alt": "google-grow-logo.png"
           }
         },
+        "finishDate": "2022-11-01",
         "linkedCompetences": [
           {
             "name": "Adobe Xd",

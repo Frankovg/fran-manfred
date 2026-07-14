@@ -380,6 +380,12 @@
       },
       {
         "skill": {
+          "name": "Playwright",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -423,6 +429,24 @@
       {
         "skill": {
           "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vitest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zustand",
           "type": "technology"
         }
       }

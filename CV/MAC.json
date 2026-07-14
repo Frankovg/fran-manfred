@@ -738,6 +738,10 @@
         {
           "name": "Vitest",
           "type": "technology"
+        },
+        {
+          "name": "Zustand",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [

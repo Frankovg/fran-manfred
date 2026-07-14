@@ -320,31 +320,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Adobe Illustrator",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Xd",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Claude Code",
           "type": "technology"
         }
       },
@@ -399,6 +381,24 @@
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
           "type": "technology"
         }
       },

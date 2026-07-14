@@ -732,6 +732,10 @@
           "type": "technology"
         },
         {
+          "name": "Vite",
+          "type": "technology"
+        },
+        {
           "name": "Vitest",
           "type": "technology"
         }

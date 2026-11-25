@@ -680,6 +680,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Astro",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
@@ -721,6 +725,10 @@
         },
         {
           "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
           "type": "technology"
         },
         {

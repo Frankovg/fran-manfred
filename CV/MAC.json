@@ -696,6 +696,10 @@
           "type": "technology"
         },
         {
+          "name": "Cursor",
+          "type": "technology"
+        },
+        {
           "name": "Fastapi",
           "type": "technology"
         },

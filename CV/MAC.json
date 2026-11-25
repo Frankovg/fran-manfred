@@ -764,6 +764,10 @@
           "type": "technology"
         },
         {
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
           "name": "Zustand",
           "type": "technology"
         }

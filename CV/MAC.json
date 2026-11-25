@@ -692,6 +692,14 @@
           "type": "technology"
         },
         {
+          "name": "Codex (Open AI)",
+          "type": "technology"
+        },
+        {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
           "name": "GitHub Copilot",
           "type": "technology"
         },

@@ -724,6 +724,10 @@
           "type": "technology"
         },
         {
+          "name": "Microsoft Copilot Studio",
+          "type": "technology"
+        },
+        {
           "name": "NextJS",
           "type": "technology"
         },

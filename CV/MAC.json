@@ -728,6 +728,10 @@
           "type": "technology"
         },
         {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
           "name": "NextJS",
           "type": "technology"
         },
